@@ -24,7 +24,7 @@ for x in range (10):
     que.put(random.random())
 
 print  que
-consumers = [consumer(que) for x in range(5)]
+consumers = [consumer(que) for x in range(10)]
 
 for c in consumers:
     c.start()
