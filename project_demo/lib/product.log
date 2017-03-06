@@ -1,0 +1,8 @@
+2017-03-01 21:00:17,964 - INFO - Logger - <module> - 46  - info message
+2017-03-01 21:00:17,966 - ERROR - Logger - <module> - 47  - error message
+2017-03-01 21:00:17,966 - WARNING - Logger - <module> - 48  - warn message
+2017-03-01 21:00:17,966 - CRITICAL - Logger - <module> - 49  - critical message
+2017-03-06 19:36:10,203 - INFO - Logger - <module> - 46  - info message
+2017-03-06 19:36:10,203 - ERROR - Logger - <module> - 47  - error message
+2017-03-06 19:36:10,203 - WARNING - Logger - <module> - 48  - warn message
+2017-03-06 19:36:10,203 - CRITICAL - Logger - <module> - 49  - critical message
